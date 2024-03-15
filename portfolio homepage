@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Gopi Jahnavi - Resume</title>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Jahnavi Gopi</h1>
+        <p>Motivated and enthusiastic final-year student pursuing a B.E. in CSE, eager to embark on a rewarding journey in web development. I am actively seeking opportunities to apply my strong academic foundation, passion for innovative technologies, and enthusiasm for learning in the dynamic field of web development. Excited to contribute my problem-solving skills to a collaborative team and further enhance my abilities while making a positive impact in the realm of web development.
+        </p>
+    </div>
+
+    <div class="container">
+        <div class="aside">
+            <section class="section">
+                <h2>Technical Skills</h2>
+                <p>Languages: C, Python, Java, Php, swift</p>
+                <p>Web Technologies: HTML, CSS, JavaScript</p>
+                <p>Databases: SQL</p>
+                <p>UI Design Tool: Figma</p>
+            </section>
+
+            <section class="section">
+                <h2>Languages</h2>
+                <p>Telugu</p>
+                <p>Hindi</p>
+                <p>English (proficient)</p>
+            </section>
+
+            <section class="section">
+                <h2>Contact Information</h2>
+                <div class="contact-cards">
+                    <div class="contact-card">
+                        <h3>Email</h3>
+                        <p>jahnavigrij@gmail.com</p>
+                    </div>
+                    <div class="contact-card">
+                        <h3>Phone</h3>
+                        <p>+91 9618431716</p>
+                    </div>
+                    <div class="contact-card">
+                        <h3>LinkedIn</h3>
+                        <p><a href="https://www.linkedin.com/in/jahnavi-gopi-587488276/" target="_blank">jahnavi-gopi</a></p>
+                    </div>
+                    <div class="contact-card">
+                        <h3>GitHub</h3>
+                        <p><a href="https://github.com/gopijahnavi" target="_blank">gopijahnavi</a></p>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <div class="main">
+            <section class="section">
+                <h2>Achievements</h2>
+                <ul>
+               <li>3rd rank holder in the university examinations for the academic year 2022-2023.</li>
+               <li>Received a Student Topper award for the academic year 2022-2023.</li>
+               <li>Certificate of Merit received for securing 99 percentile out of 4,909 students in university examinations during the academic year (2021-2022).</li>
+            </ul>
+            </section>
+
+            <section class="section">
+                <h2>Projects</h2>
+                <div class="project">
+                    <h3>IOT-based Smart Plant Monitoring System</h3>
+                    <p><strong>Technology used:</strong> Internet of Things</p>
+                    <p>Created a smart plant monitoring system for home gardening, automatically supplying water when needed. Rigorous testing ensures precise hydration, reducing water wastage and promoting widespread adoption of sustainable home gardening practices.</p>
+                </div>
+
+                <div class="project">
+                    <h3>Efficient College Bus Management (Web Application)</h3>
+                    <p><strong>Technology used:</strong> HTML, CSS, PHP, SQL, JS</p>
+                    <p>Enhance how the college transportation system works with a user-friendly web app. Make things easier for administrators, improve the travel experience, and ensure everything runs smoothly. Manage buses, seats, payments, and feedback for a better and secure system for everyone in the college community.</p>
+                </div>
+
+                <div class="project">
+                    <h3>Efficient College Bus Management (iOS Application)</h3>
+                    <p><strong>Technology used:</strong> SWIFT, JSON, SQL</p>
+                    <p>Make college travel better with an easy-to-use iOS app. Help admins, bus staff, and students manage rides, payments, and feedback effortlessly. It's a simple and secure way to improve the college transportation experience for everyone.</p>
+                </div>
+            </section>
+
+            <section class="section">
+                <h2>Certifications</h2>
+                <ul>
+                    <li>AWS certified cloud practitioner-Linkedin</li>
+                    <li>MySQL Basics (Great Learning) - August 2023</li>
+                    <li>Java Programming (Great Learning) - May 2023</li>
+                    <li>Webinar on "Knowledge Representation in Artificial Intelligence" - May 25th, 2022</li>
+                    <li>Python Fundamentals for Beginners (Great Learning) - June 2022</li>
+                    <li>Basics of C-programming (UDEMY) - October 2021</li>
+                </ul>
+            </section>
+        </div>
+    </div>
+</body>
+
+</html>
